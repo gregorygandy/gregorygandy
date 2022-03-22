@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gregory Gandy.
 - I am interested in web development and machine learning.
-- My current focus is on learning C# and the .NET ecosystem.
 - I am a computer science student at Oregon State University and an IT Intern at the City of Salem.
+- My current focus is C# and the .NET Core.
 - In my free time, I take massive open online courses (MOOCs) like [Intro to Analytics Modeling](https://github.com/gregorygandy/intro-to-analytics-modeling), [CS50x](https://github.com/gregorygandy/CS50x), and [Full Stack open](https://github.com/gregorygandy/full-stack-open).
