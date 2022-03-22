@@ -2,4 +2,4 @@
 - I am interested in web development and machine learning.
 - My current focus is on learning C# and the .NET ecosystem.
 - I am a computer science student at Oregon State University and an IT Intern at the City of Salem.
-- In my free time, I take massive open online courses (MOOCs) like [Intro to Analytics Modeling](https://github.com/gregorygandy/intro-to-analytics-modeling), [CS50x](https://github.com/gregorygandy/CS50x), and [Full Stack open](https://github.com/gregorygandy/full-stack-open), and work on projects like project1, project2, and project3.
+- In my free time, I take massive open online courses (MOOCs) like [Intro to Analytics Modeling](https://github.com/gregorygandy/intro-to-analytics-modeling), [CS50x](https://github.com/gregorygandy/CS50x), and [Full Stack open](https://github.com/gregorygandy/full-stack-open).
