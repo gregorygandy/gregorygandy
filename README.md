@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @gregorygandy
-- 👀 I am interested in web development and machine learning
-- 🌱 I’m currently learning C# and .NET Core
+- 👋 Hi, I’m Gregory Gandy
+- I am interested in web development and machine learning
+- I’m currently learning C# and the .NET ecosystem
+- I am a computer science student at Oregon State University and an IT Intern at the City of Salem
+- In my free time, I take courses like [CS50x](https://github.com/gregorygandy/CS50x) and [Full Stack open](https://fullstackopen.com/en/), and work on projects like - and -
