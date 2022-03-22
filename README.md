@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gregorygandy
+- 👀 I am interested in web development and machine learning
+- 🌱 I’m currently learning C# and .NET Core
