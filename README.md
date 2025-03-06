@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile. You should also check out my blog at [gregorygandy.com](gregorygandy.com). My general interests include system and software configuration management, lightweight web development, and statistical computing. Here are some of my projects organized by category:
+Welcome to my GitHub profile. You should also check out my blog at [gregorygandy.com](https://www.gregorygandy.com). My general interests include system and software configuration management, lightweight web development, and statistical computing. Here are some of my projects organized by category:
 
 ## System configuration
 
