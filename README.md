@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**gregorygandy/gregorygandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. My general interests include system and software configuration management, lightweight web development, and statistical computing. Here are some of my projects organized by category:
 
-Here are some ideas to get you started:
+## System configuration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [OPNsense Ansible playbook](https://github.com/gregorygandy/opnsense-playbook)
+- [Fedora Ansible playbook](https://github.com/gregorygandy/fedora-playbook)
+- [Windows Ansible playbook](https://github.com/gregorygandy/windows-playbook)
+- [Mac Ansible playbook](https://github.com/gregorygandy/mac-playbook)
+- [NixOS config](https://github.com/gregorygandy/nixos-config)
+- [dotfiles](https://github.com/gregorygandy/dotfiles)
+
+## Web development
+
+## Statistical computing
