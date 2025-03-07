@@ -4,7 +4,7 @@ Welcome to my GitHub profile. You should also check out my blog at [gregorygandy
 
 ## System configuration
 
-I like using different operating systems; I dual-boot Windows and Fedora Workstation on my Framework Laptop 13, access my Mac Mini remotely using Chrome Remote Desktop, and use OPNsense (FreeBSD) for my home router.
+I like using different operating systems; I dual-boot Windows and Fedora Workstation on a Framework Laptop 13, access a Mac Mini desktop remotely, and use OPNsense (FreeBSD) for a home router.
 
 - [Windows Ansible playbook](https://github.com/gregorygandy/windows-playbook)
 - [Fedora Ansible playbook](https://github.com/gregorygandy/fedora-playbook)
