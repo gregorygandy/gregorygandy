@@ -6,16 +6,15 @@ Welcome to my GitHub profile. You should also check out my blog at [gregorygandy
 
 I like using different operating systems; I dual-boot Windows and Fedora Workstation on my Framework Laptop 13, access my Mac Mini remotely using Chrome Remote Desktop, and use OPNsense (FreeBSD) for my home router.
 
-- [OPNsense Ansible playbook](https://github.com/gregorygandy/opnsense-playbook)
-- [Fedora Ansible playbook](https://github.com/gregorygandy/fedora-playbook)
 - [Windows Ansible playbook](https://github.com/gregorygandy/windows-playbook)
+- [Fedora Ansible playbook](https://github.com/gregorygandy/fedora-playbook)
 - [Mac Ansible playbook](https://github.com/gregorygandy/mac-playbook)
+- [OPNsense Ansible playbook](https://github.com/gregorygandy/opnsense-playbook)
 - [NixOS config](https://github.com/gregorygandy/nixos-config)
 - [dotfiles](https://github.com/gregorygandy/dotfiles)
 
 ## Web development
 
-- [Ultralight Food](https://ultralightfood.com)
+- [Ultralight Food](https://ultralightfood.com) is a catalog of backpacking foods that makes it easy for backpackers to find foods that meet their specific nutritional and trip requirements. Metrics relevant to backpacking's unique requirements, such as calorie-to-weight and calorie-to-volume, are calculated and filterable.
 
 ## Statistical computing
-
