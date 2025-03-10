@@ -15,6 +15,6 @@ I like using different operating systems; I dual-boot Windows and Fedora Worksta
 
 ## Web development
 
-- [Ultralight Food](https://ultralightfood.com) is a catalog of backpacking foods that makes it easy for backpackers to find foods that meet their specific nutritional and trip requirements. Metrics relevant to backpacking's unique requirements, such as calorie-to-weight and calorie-to-volume, are calculated and filterable.
+- [Ultralight Food](https://ultralightfood.com) is a catalog of backpacking foods that makes it easy for backpackers to find foods that meet their specific nutritional, dietary, and trip requirements. Metrics relevant to backpacking's unique requirements, such as calorie-to-weight and calorie-to-volume, are calculated and filterable.
 
 ## Statistical computing
